@@ -15,8 +15,6 @@ html_temp = """
 desc_temp = """
             ### Employee Promotion Prediction App
             This app will be used by the HR team to predict whether the employee get a promotion or not
-            #### Data Source
-            - https://raw.githubusercontent.com/densaiko/data_science_learning/main/dataset/Human%20Capital.csv
             #### App Content
             - Exploratory Data Analysis
             - Machine Learning Section
